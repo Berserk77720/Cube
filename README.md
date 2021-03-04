@@ -1,16 +1,17 @@
-# Cube(cpp)
+// # Cube(cpp)
 
 #include <iostream>
 #include <stdlib.h>
 
 using namespace std;
 
-void main(){
+int main(){
+
+
+
+cout << " ### EXERCISE RESOLUTION cpp - JEANN ICON CODE 21/03/2018 ###\n ";
 
 /*
-
-cout << " ### EXERCISE RESOLUTION cpp - JEANN ICON CODE 21/03/2018 ### "\n;
-
 1. *Calculadora Michael Marlon*
 2. *Cigarros no Ano*
 3. *IMC*
@@ -30,6 +31,7 @@ e se ha riscos para a saude.
 
 */
 
+system("pause");
 
 return 0;
 
